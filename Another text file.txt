@@ -1,3 +1,0 @@
-n = datetime
-for i = 1 to n do:
-	print i 
