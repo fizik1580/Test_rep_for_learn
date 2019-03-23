@@ -1,4 +1,6 @@
-value = randomize
+//VAR//
+value = randomize;
+ 
 while value <> 0 do
 	print "input date of your birthday"
 	readln date_bday
