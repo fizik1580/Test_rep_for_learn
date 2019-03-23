@@ -5,5 +5,5 @@ while value <> 0 do
 	if date_bday >= 18
 		print "Gratz"
 	elif
-		print "Oh no"
+		print "Oh my god no///"
 end
