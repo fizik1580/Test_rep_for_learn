@@ -1,0 +1,9 @@
+value = randomize
+while value <> 0 do
+	print "input date of your birthday"
+	readln date_bday
+	if date_bday >= 18
+		print "Gratz"
+	elif
+		print "Oh no"
+end
